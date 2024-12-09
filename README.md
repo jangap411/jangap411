@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Deo No Fortuna
+Deo Non Fortuna
 
 
 ## 🌐 Socials:
